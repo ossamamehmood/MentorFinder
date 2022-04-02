@@ -59,7 +59,7 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-9 col-md-10">
                                     <div class="hero__caption">
-                                        <h1 style="color:rgb(253, 0, 80)";>Mentors Login</h1>
+                                        <h1 style="color:rgb(250, 35, 106)";>Mentors Login</h1>
                                     </div>
                                 </div>
                             </div>
@@ -84,10 +84,10 @@
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn">Login Mentor</button>
+                            <button type="submit" class="btn head-btn2">Login as Mentor</button>
                             </div>
-                            <div class="form-group mt-10">
-                                <button type="submit" class="button button-contactForm boxed-btn">Forget Password</button>
+                            <div class="form-group mt-3">
+                                <a href="forgetpassword.php" class="btn head-btn1">Forget Password</a>
                             </div>
                         </form>
                     </div>   

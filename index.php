@@ -55,8 +55,8 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-9 col-md-10">
                                 <div class="hero__caption">
-                                    <h1> Find the most exciting </h1> 
-                                    <h1 style="color:rgb(253, 0, 80)";>mentors</h1>
+                                    <h1> Find the most exciting mentors</h1> 
+                                    <!-- <h1 style="color:rgb(250, 35, 106)";>mentors</h1> -->
                                 </div>
                             </div>
                         </div>
