@@ -1,2 +1,2 @@
-# Mentor Finder 🎯
-## 🎗️ Find the most exciting mentors
+# Mentor Finder 🎗️
+## 🎯 Find the most exciting mentors
