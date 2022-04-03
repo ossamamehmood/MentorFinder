@@ -59,7 +59,7 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-9 col-md-10">
                                     <div class="hero__caption">
-                                        <h1 style="color:rgb(250, 35, 106)";>Mentors Login</h1>
+                                    <h1>Mentors<span style="color:rgb(250, 35, 106)"> Login</span></h1>
                                     </div>
                                 </div>
                             </div>

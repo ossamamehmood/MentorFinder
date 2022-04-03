@@ -59,7 +59,7 @@
                             <div class="row">
                                 <div class="col-xl-6 col-lg-9 col-md-10">
                                     <div class="hero__caption">
-                                        <h1 style="color:rgb(250, 35, 106)";>Become a Mentor</h1>
+                                    <h1>Become<span style="color:rgb(250, 35, 106)"> a Mentor</span></h1>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn">Register As Mentor</button>
+                                <button type="submit" class="btn head-btn1">Register As Mentor</button>
                             </div>
                         </form>
                     </div>   
