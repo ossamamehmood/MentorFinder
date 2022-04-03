@@ -22,7 +22,7 @@
                                 <h4>Contact Info</h4>
                                 <ul>
                                     <li>
-                                    <p>Address :Comsats Wah, Mall Road, 
+                                    <p>Address: Comsats Wah, Mall Road, 
                                         Quaid Avenue, Wah Cantt, 
                                         Rawalpindi, Punjab</p>
                                     </li>
@@ -38,8 +38,8 @@
                             <div class="footer-tittle">
                                 <h4>Important Link</h4>
                                 <ul>
-                                    <li><a href="#"> View Project</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="https://github.com/ossamamehmood/Mentor_Finder">View Project</a></li>
+                                    <li><a href="https://linktr.ee/ossamamehmood">Contact Us</a></li>
                                     <li><a href="#">Testimonial</a></li>
                                     <li><a href="#">Proparties</a></li>
                                     <li><a href="#">Support</a></li>
