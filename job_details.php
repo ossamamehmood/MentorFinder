@@ -80,7 +80,6 @@
                                     <ul>
                                         <li>Creative Agency</li>
                                         <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
-                                        <li>$3500 - $4000</li>
                                     </ul>
                                 </div>
                             </div>

@@ -55,8 +55,7 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-9 col-md-10">
                                 <div class="hero__caption">
-                                    <h1> Find the most exciting mentors</h1> 
-                                    <!-- <h1 style="color:rgb(250, 35, 106)";>mentors</h1> -->
+                                    <h1> Find the most<span style="color:rgb(250, 35, 106)"> exciting mentors</span></h1>
                                 </div>
                             </div>
                         </div>
@@ -238,11 +237,10 @@
                                     <a href="job_details.php"><img src="assets/img/icon/job-list1.png" alt=""></a>
                                 </div>
                                 <div class="job-tittle">
-                                    <a href="job_details.php"><h4>Digital Marketer</h4></a>
+                                    <a href="job_details.php"><h4>Creative Designer</h4></a>
                                     <ul>
                                         <li>Creative Agency</li>
-                                        <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
-                                        <li>$3500 - $4000</li>
+                                        <li><i class="fas fa-map-marker-alt"></i>Islamabad, Pakistan</li>
                                     </ul>
                                 </div>
                             </div>
@@ -258,11 +256,10 @@
                                     <a href="job_details.php"><img src="assets/img/icon/job-list2.png" alt=""></a>
                                 </div>
                                 <div class="job-tittle">
-                                    <a href="job_details.php"><h4>Digital Marketer</h4></a>
+                                    <a href="job_details.php"><h4>Graphic Designer</h4></a>
                                     <ul>
                                         <li>Creative Agency</li>
-                                        <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
-                                        <li>$3500 - $4000</li>
+                                        <li><i class="fas fa-map-marker-alt"></i>Lahore, Pakistan</li>
                                     </ul>
                                 </div>
                             </div>
@@ -278,11 +275,10 @@
                                     <a href="job_details.php"><img src="assets/img/icon/job-list3.png" alt=""></a>
                                 </div>
                                 <div class="job-tittle">
-                                    <a href="job_details.php"><h4>Digital Marketer</h4></a>
+                                    <a href="job_details.php"><h4>Website Designerr</h4></a>
                                     <ul>
                                         <li>Creative Agency</li>
-                                        <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
-                                        <li>$3500 - $4000</li>
+                                        <li><i class="fas fa-map-marker-alt"></i>Rawalpindi, Pakistan</li>
                                     </ul>
                                 </div>
                             </div>
@@ -298,11 +294,10 @@
                                     <a href="job_details.php"><img src="assets/img/icon/job-list4.png" alt=""></a>
                                 </div>
                                 <div class="job-tittle">
-                                    <a href="job_details.php"><h4>Digital Marketer</h4></a>
+                                    <a href="job_details.php"><h4>User Interface and Experience Designer</h4></a>
                                     <ul>
                                         <li>Creative Agency</li>
-                                        <li><i class="fas fa-map-marker-alt"></i>Athens, Greece</li>
-                                        <li>$3500 - $4000</li>
+                                        <li><i class="fas fa-map-marker-alt"></i>Wah, Pakistan</li>
                                     </ul>
                                 </div>
                             </div>

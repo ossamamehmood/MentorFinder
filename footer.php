@@ -9,7 +9,7 @@
                              <div class="footer-tittle">
                                  <h4>About Us</h4>
                                  <div class="footer-pera">
-                                     <p>Heaven frucvitful doesn't cover lesser dvsays appear creeping seasons so behold.</p>
+                                     <p>Find a mentor online and get expert advice and guidance to get a successful career.</p>
                                 </div>
                              </div>
                          </div>
@@ -52,7 +52,7 @@
                             <div class="footer-tittle">
                                 <h4>Newsletter</h4>
                                 <div class="footer-pera footer-pera2">
-                                 <p>Heaven fruitful doesn't over lesser in days. Appear creeping.</p>
+                                 <p>The Virtual Mentoring Services will directs towards your Career goal.</p>
                              </div>
                              <!-- Form -->
                              <div class="footer-form" >
@@ -79,7 +79,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <!-- logo -->
                         <div class="footer-logo mb-20">
-                        <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                        <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
