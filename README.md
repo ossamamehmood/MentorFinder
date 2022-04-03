@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Prototype/Website Preview/Mentor Home Page.png">
+  <img alt="" style="{max-height: 0px}" src="./Prototype/Website Preview/Home Page.png">
 </p>
 
 <p align="left">
